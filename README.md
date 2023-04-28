@@ -1,5 +1,5 @@
 
-# Web Development Resources for Learning
+# Resources to Learn Software Development
 
 ## Stacks
 
